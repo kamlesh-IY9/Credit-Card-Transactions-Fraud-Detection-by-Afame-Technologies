@@ -54,13 +54,10 @@ To utilize the project:
 
 #### 📊 Graphical Representation
 
-![Screenshot 1](images/Screenshot 2024-05-11 134730.png)
-
-![Screenshot 2](Screenshot2.png)
-
-![Screenshot 3](Screenshot3.png)
-
-![Screenshot 4](Screenshot4.png)
+<img src="images/Screenshot1.png" width="900">
+<img src="images/Screenshot4.png" width="900">
+<img src="images/Screenshot3.png" width="900">
+<img src="images/Screenshot2.png" width="900">
 
 ## Contribution 🤝
 
