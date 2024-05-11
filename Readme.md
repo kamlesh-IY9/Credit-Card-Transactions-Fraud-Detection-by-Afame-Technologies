@@ -38,17 +38,10 @@ Follow these steps to install the project:
    cd credit-card-transaction-fraud-detection
    ```
 
-## Usage
+**Usage:**
 
-To utilize the project:
-
-1. **Open the notebook file:**
-
-   Open the notebook file named "Credit_Card_Transaction_Fraud_Detection.ipynb" in your Jupyter Notebook environment or Visual Studio Code.
-
-2. **Execute the code:**
-
-   Follow the instructions within the notebook to execute the code cells and analyze the fraud detection process.
+1. Open the notebook file named "Credit_Card_Transaction_Fraud_Detection.ipynb" in your Jupyter Notebook or Visual Studio Code.
+2. Follow the instructions within the notebook to execute the code cells and analyze the fraud detection process.
 
 ### Screenshots
 
