@@ -2,10 +2,6 @@
 
 Welcome to our Credit Card Fraud Detection project! In today's digital world, safeguarding financial transactions from fraud is paramount. Leveraging advanced machine learning models like Logistic Regression, Random Forest, and Decision Tree, our project is dedicated to detecting and preventing fraudulent activities with precision.
 
-## Overview
-
-Our project specializes in real-time analysis of credit card transactions, utilizing sophisticated machine learning techniques to accurately distinguish between legitimate and fraudulent activities.
-
 ## Getting Started
 
 🔗 **[Dataset Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)**
