@@ -54,7 +54,7 @@ To utilize the project:
 
 #### 📊 Graphical Representation
 
-![Screenshot 1](Screenshot1.png)
+![Screenshot 1](images/Screenshot 2024-05-11 134730.png)
 
 ![Screenshot 2](Screenshot2.png)
 
