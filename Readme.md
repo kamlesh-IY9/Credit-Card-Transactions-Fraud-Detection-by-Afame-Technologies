@@ -29,13 +29,13 @@ Follow these steps to install the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies.git
    ```
 
 2. **Navigate to the repository directory:**
 
    ```bash
-   cd credit-card-transaction-fraud-detection
+   cd Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies
    ```
 
 **Usage:**
@@ -47,10 +47,10 @@ Follow these steps to install the project:
 
 #### 📊 Graphical Representation
 
-<img src="images/Screenshot1.png" width="900">
-<img src="images/Screenshot4.png" width="900">
-<img src="images/Screenshot3.png" width="900">
-<img src="images/Screenshot2.png" width="900">
+<img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/201c51a3-0f38-42c2-a436-17b615708e92" width="900">
+<img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/56392435-da7c-4298-95bb-7d12339c7c8e" width="900">
+<img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/480c888b-4736-41d3-8175-670f39c9e602" width="900">
+<img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/f1fdc24d-c2c9-41f2-807c-8ef38c49ae19" width="900">
 
 ## Contribution 🤝
 
